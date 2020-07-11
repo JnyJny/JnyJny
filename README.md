@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hey, it's me.
 
+Husband, father, hacker, gamer, storyteller, egregeous guitarist,
+hoplophile, space enthusiast, UNIX system programmer, scuba
+diver, amatuer radio operator, remote-control neophyte, part-time
+sci-fi snob, passing cartoonist, enthusiastic karateka, whiskey
+drinker, acolyte of Schwa, semi-good pythonista, recovering
+trombonist, mechanical keyboard afficiando, unapologetic Apple fanboi,
+pickup truck driver, naked-eye exoplanet hunter and seriously grouchy
+in the morning before the first cup of coffee.
+
+I like making Python do weird and/or useful things, useful is optional.
 <!--
 **JnyJny/JnyJny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
