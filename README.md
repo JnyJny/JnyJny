@@ -9,7 +9,13 @@ trombonist, mechanical keyboard afficiando, unapologetic Apple fanboi,
 pickup truck driver, naked-eye exoplanet hunter and seriously grouchy
 in the morning before the first cup of coffee.
 
-I like making Python do weird and/or useful things, useful is optional.
+I like making Python do weird and/or useful things. Useful is often optional.
+
+I've written some articles on [Opensource.com](1) about programming in C and Python. 
+
+
+[1]: https://opensource.com/user_articles/286636/286636
+
 <!--
 **JnyJny/JnyJny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
