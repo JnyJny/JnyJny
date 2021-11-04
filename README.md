@@ -1,4 +1,4 @@
-### A Brief Introduction to Me
+### Erik can be summed up... 
 
 Husband, father, hacker, gamer, storyteller, egregious guitarist,
 hoplophile, space exploration enthusiast, UNIX system programmer, scuba
@@ -11,8 +11,8 @@ in the morning before the first cup of coffee.
 
 I like making computers do weird and/or useful things. Useful is often optional.
 
-I've written some articles on [Opensource.com][1] about programming in C and Python. 
+I've written some articles on [Opensource.com][1] about programming in C and Python.
 
-**JnyJny** is my abbreviation of the name "Johnny Johnny", a character from 1987 book "The Long Run" by Daniel Keys Moran. I adopted it as a login handle due to it's shortness compared to my given name. 
+My handle, **JnyJny**, is a diminution of the name of a character from 1987 book "The Long Run" by Daniel Keys Moran.
 <!-- End Notes -->
 [1]: https://opensource.com/user_articles/286636/286636
