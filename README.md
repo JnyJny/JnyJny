@@ -9,7 +9,7 @@ trombonist, mechanical keyboard aficionado, unapologetic Apple fanboi,
 pickup truck driver, naked-eye exoplanet hunter and seriously grouchy
 in the morning before the first cup of coffee.
 
-I like making Python do weird and/or useful things. Useful is often optional.
+I like making computers do weird and/or useful things. Useful is often optional.
 
 I've written some articles on [Opensource.com][1] about programming in C and Python. 
 
